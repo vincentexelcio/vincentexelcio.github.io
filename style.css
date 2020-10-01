@@ -96,8 +96,9 @@ header #Branding{
 }
 
 #boxes{
-	margin-top: 0px;
-	background: linear-gradient(to top,#CFCEF2,#ffff)
+	margin-top: 10px;
+	background: linear-gradient(to top,#CFCEF2,#ffff);
+	height: 400px;
 
 }
 
@@ -113,12 +114,12 @@ header #Branding{
 	width: 150px;
 }
 
-footer{
+#footer{
 	text-align: center;
 	padding: 25px;
 	margin-top: 0px;
-	background: #A3A0F2;
-}
+	background:#A3A0F2;
+} 
 
 .medsos{
 	padding:0px 0px;
@@ -133,7 +134,7 @@ a{
 	padding: 0px 35px;
 }
 
-footer p{
+#footer p{
 	font-weight: bold;
 	color: #35328C;
 }
