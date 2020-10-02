@@ -1,0 +1,19 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-size: 15px;
+	font-family: sans-serif;
+	background-color: #f4f4f4;
+}
+
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: none;
+}
+
+#title{
+	text-align: center;
+	font-size: 30px;
+	color:#A3A0F2;
+}

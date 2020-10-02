@@ -25,7 +25,7 @@ header #Branding{
 	font-weight: bold;
 	color: #CFCEF2;
 	float: left;
-
+	margin-top: -10px;
 }
 
 
@@ -35,11 +35,11 @@ header #Branding{
 	float: right;
 	padding: 0px 50px;
 	font-size: 20px;
+	margin-top: 15px;
 }
 
 .menu a:hover{
 	font-weight: bold;
-
 }
 
 
@@ -64,18 +64,19 @@ header #Branding{
 }
 
 #Newsletter{
-	padding: 100px ;
+	padding-top: 100px;
 	background: linear-gradient(to right, #222059, #A3A0F2);
 	color: #CFCEF2;
 }
 
 #Newsletter h1{
 	float: left;
+	margin-top: -60px;
 }
 
 #Newsletter form{
 	float: right;
-	margin-top: 1px;
+	margin-top: -70px;
 }
 
 #Newsletter input[type="email"]{
@@ -98,7 +99,7 @@ header #Branding{
 #boxes{
 	margin-top: 10px;
 	background: linear-gradient(to top,#CFCEF2,#ffff);
-	height: 400px;
+	height: 350px;
 
 }
 
